@@ -4,7 +4,7 @@
 Create compelling visualizations using Power BI to derive business insights from sales data.
 
 ## 📁 Dataset:
-- `sample-data-10mins.xlsx`
+- `chocolate_sales.xlsx`
 
 ## 🔧 Tools Used:
 - Microsoft Power BI
