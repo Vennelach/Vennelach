@@ -1,4 +1,4 @@
-# Task 2 - Data Analyst Internship (Data Visualization & Storytelling)
+# Task 2 - Data Visualization & Storytelling
 
 ## 📊 Objective:
 Create compelling visualizations using Power BI to derive business insights from sales data.
